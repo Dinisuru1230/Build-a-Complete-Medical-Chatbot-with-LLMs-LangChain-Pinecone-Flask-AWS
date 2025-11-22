@@ -7,7 +7,7 @@ touch src/__intit__.py
 touch src/helprt.py
 touch src/prompt.py
 touch .env
-touch setuo.py
+touch setup.py
 touch app.py
 touch research/trials.ipynb
 touch requirements.txt
